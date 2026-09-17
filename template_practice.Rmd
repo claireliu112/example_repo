@@ -1,5 +1,5 @@
 ---
-title: "Simple document"
+title: "A really not so simple document"
 author: "Claire Liu"
 output:
   html_document:
