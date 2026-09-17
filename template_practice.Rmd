@@ -1,13 +1,10 @@
 ---
 title: "A really not so simple document"
 author: "Claire Liu"
-output:
-  html_document:
-    toc: true
-    toc_float: true
+output: github_document
 ---
 ```{r}
-#output: can also be pdf_document, word_document
+#output: can be html_document (toc: true toc_float: true), pdf_document, word_document, github_document
 ```
 
 
